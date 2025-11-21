@@ -62,12 +62,5 @@ So I create learning that is:
 
 ---
 
-## 📩 Connect With Me
-🔗 LinkedIn: (Add your link)  
-📺 YouTube: (Add your channel link)  
-🌐 Portfolio: (Add if available)
-
----
-
 ⭐ Feel free to explore my repositories, fork, learn, and collaborate!
 # Cyber_Racheal-git
